@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://kaggesretail.com/sitemap.xml
